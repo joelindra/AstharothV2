@@ -29,4 +29,4 @@ Astharoth is tools for make your bug bounty activity more easy! <br>This tools m
 
 ## Start Tools
 
-``./astharoth -h``
+``./astharothv2 -h``
