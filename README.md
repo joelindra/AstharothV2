@@ -24,7 +24,7 @@ Astharoth is tools for make your bug bounty activity more easy! <br>This tools m
 ## Requirements
 
 ``1. Make sure u have good connection``<br>
-``2. Make sure u run installation requirements first ` -r ` and choose what OS you use [ Kali / Ubuntu / MacOS ]``<br>
+``2. Make sure u run installation requirements first ` -r ` and choose your OS``<br>
 ``3. Run Installer 2x for install zsh and all requirements``
 
 ## Start Tools
