@@ -1,6 +1,6 @@
 ## AstharothV2
 
-Astharoth is tools for make your bug bounty activity more easy! <br>This tools maked with bash and golang, and support linux and mac os!
+Astharoth is tools for make your bug bounty activity more easy! <br>This tools made with bash and golang, and support linux and mac os!
 
 ## Feature
 
